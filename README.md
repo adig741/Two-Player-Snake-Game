@@ -20,7 +20,7 @@ A local multiplayer Snake game built with Python and Pygame for the **Python for
 | **Modes** | Easy, Medium, Hard |
 | **Built with** | Python, Pygame |
 | **Platform** | Desktop |
-| **Created by** | Adi Goldstein and Firas Sawaed |
+| **Course** | Python for Engineers, Shenkar College |
 
 Guide two snakes around the board, collect apples, and see who can grow longer. Each player has independent controls and a live score. The menu lets you choose a difficulty, toggle audio, restart after a round, or return to level selection.
 
@@ -77,7 +77,6 @@ The [project page](https://adig741.github.io/snake-game/) presents the game and 
 
 This is a publication-ready copy of the course project. It includes the game source and the assets needed to run it, while leaving out virtual environments, duplicate drafts, large archives, and student identification numbers from the original working folder.
 
-**Creators:** Adi Goldstein and Firas Sawaed<br>
 **Course:** Python for Engineers, Shenkar College of Engineering, Design and Art
 
 ---
