@@ -1,12 +1,12 @@
 <div align="center">
 
-# SNAKE GAME
+# Two-Player Snake Game
 
 ### Two players. One keyboard. Three ways to play.
 
 A local multiplayer Snake game built with Python and Pygame for the **Python for Engineers** course at Shenkar College.
 
-[Explore the project page](https://adig741.github.io/snake-game/) · [Watch the gameplay video](https://www.youtube.com/watch?v=8dPCcWmFBHo) · [Run the game](#run-locally)
+[Explore the project page](https://adig741.github.io/Two-Player-Snake-Game/) · [Watch the gameplay video](https://www.youtube.com/watch?v=8dPCcWmFBHo) · [Run the game](#run-locally)
 
 ![Snake Game project preview](docs/assets/game-preview.jpg)
 
@@ -59,7 +59,7 @@ On Windows, use `py` instead of `python` if that is how Python is installed. Run
 ## Project structure
 
 ```text
-snake-game/
+Two-Player-Snake-Game/
 ├── game/             # Pygame source and bundled game assets
 │   ├── main.py
 │   ├── button.py
@@ -71,7 +71,7 @@ snake-game/
 └── README.md
 ```
 
-The [project page](https://adig741.github.io/snake-game/) presents the game and its features. The desktop game runs locally with Pygame; the page is its showcase.
+The [project page](https://adig741.github.io/Two-Player-Snake-Game/) presents the game and its features. The desktop game runs locally with Pygame; the page is its showcase.
 
 ## About this repository
 
