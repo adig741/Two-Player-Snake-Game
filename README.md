@@ -78,13 +78,3 @@ The [project page](https://adig741.github.io/snake-game/) presents the game and 
 This is a publication-ready copy of the course project. It includes the game source and the assets needed to run it, while leaving out virtual environments, duplicate drafts, large archives, and student identification numbers from the original working folder.
 
 **Course:** Python for Engineers, Shenkar College of Engineering, Design and Art
-
----
-
-<div dir="rtl" align="right">
-
-### בעברית
-
-משחק Snake לשני שחקנים על מקלדת אחת, שנבנה בפייתון וב־Pygame במסגרת הקורס ״פייתון למהנדסים״ בשנקר. אפשר לבחור בין שלוש רמות קושי, לאסוף תפוחים ולעקוב אחר הניקוד של שני השחקנים. הוראות ההתקנה וההפעלה מופיעות למעלה.
-
-</div>
